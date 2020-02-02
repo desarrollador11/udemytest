@@ -2,6 +2,6 @@
 
 
 echo "mensaje1 actualizado parte2";
-echo "mensajeconflicto1";
+echo "mensajeconflicto3";
 
 ?>
